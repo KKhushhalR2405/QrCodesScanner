@@ -1,1 +1,1 @@
-# QrCodesScanner.
+# QrCodesScanner
